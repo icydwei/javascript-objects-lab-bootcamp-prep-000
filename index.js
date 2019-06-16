@@ -1,4 +1,4 @@
-var recipes {
+var recipes = {
   spanish: "tacos",
   korean: "bulgogi"
 }
