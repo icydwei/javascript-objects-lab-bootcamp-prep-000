@@ -1,7 +1,4 @@
-var recipes = {
-  spanish: "tacos",
-  korean: "bulgogi"
-}
+var recipes = {}
 
 function updateObjectWithKeyAndValue (object, key, value) {
   var newobject = Object.assign(object, {[key]: value})
